@@ -17,6 +17,7 @@
     <module>../WDYB-Common</module>
   	<module>../WDYB-Platform-Admin</module>
   	<module>../WDYB-Platform-Web</module>
+  	<module>../WDYB-Platform-Api</module>
   </modules> 
 
   <dependencies>
